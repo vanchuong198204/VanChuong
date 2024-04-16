@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\migrations\\20240416022623_addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\migrations\\20240416022623_addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\btlab_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\btlab_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\models\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\models\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\models\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\models\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|c:\\l\u1EADp tr\u00ECnh web\\btlab_api\\btlab_api\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85FAF9-9097-402A-ABAD-17B72437A80B}|BTLAB_API\\BTLAB_API.csproj|solutionrelative:btlab_api\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "BTLAB_API\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "BTLAB_API\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:07:30.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BTLAB_API",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\BTLAB_API.csproj",
+              "RelativeDocumentMoniker": "BTLAB_API\\BTLAB_API.csproj",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\BTLAB_API.csproj",
+              "RelativeToolTip": "BTLAB_API\\BTLAB_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T02:27:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240416022623_addBooks.cs",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Migrations\\20240416022623_addBooks.cs",
+              "RelativeDocumentMoniker": "BTLAB_API\\Migrations\\20240416022623_addBooks.cs",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Migrations\\20240416022623_addBooks.cs",
+              "RelativeToolTip": "BTLAB_API\\Migrations\\20240416022623_addBooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:26:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Program.cs",
+              "RelativeDocumentMoniker": "BTLAB_API\\Program.cs",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Program.cs",
+              "RelativeToolTip": "BTLAB_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:03:11.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\appsettings.json",
+              "RelativeDocumentMoniker": "BTLAB_API\\appsettings.json",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\appsettings.json",
+              "RelativeToolTip": "BTLAB_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T02:01:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BTLAB_API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BTLAB_API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:19:37.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Models\\Domain\\Book_Author.cs",
+              "RelativeDocumentMoniker": "BTLAB_API\\Models\\Domain\\Book_Author.cs",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Models\\Domain\\Book_Author.cs",
+              "RelativeToolTip": "BTLAB_API\\Models\\Domain\\Book_Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:10:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authors.cs",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Models\\Domain\\Authors.cs",
+              "RelativeDocumentMoniker": "BTLAB_API\\Models\\Domain\\Authors.cs",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Models\\Domain\\Authors.cs",
+              "RelativeToolTip": "BTLAB_API\\Models\\Domain\\Authors.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:10:12.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Models\\Domain\\Books.cs",
+              "RelativeDocumentMoniker": "BTLAB_API\\Models\\Domain\\Books.cs",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Models\\Domain\\Books.cs",
+              "RelativeToolTip": "BTLAB_API\\Models\\Domain\\Books.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:09:30.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Publishers.cs",
+              "DocumentMoniker": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Models\\Domain\\Publishers.cs",
+              "RelativeDocumentMoniker": "BTLAB_API\\Models\\Domain\\Publishers.cs",
+              "ToolTip": "C:\\L\u1EADp tr\u00ECnh web\\BTLAB_API\\BTLAB_API\\Models\\Domain\\Publishers.cs",
+              "RelativeToolTip": "BTLAB_API\\Models\\Domain\\Publishers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:11:16.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
