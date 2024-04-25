@@ -1,6 +1,7 @@
 using BTLAB_API;
 using BTLAB_API.Data;
-using BTLAB_API.Services;
+using BTLAB_API.Interfaces;
+using BTLAB_API.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +13,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddTransient<IBookServices, BookServices>();
+builder.Services.AddScoped<IBookRepository, SQLBookRepository>();
+
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
