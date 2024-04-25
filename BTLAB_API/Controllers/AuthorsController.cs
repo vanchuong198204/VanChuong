@@ -47,7 +47,7 @@ namespace BTLAB_API.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAuthors(int id, Authors authors)
         {
-            if (id != authors.ID)
+            if (id != authors.Id)
             {
                 return BadRequest();
             }
@@ -81,7 +81,7 @@ namespace BTLAB_API.Controllers
             _context.Authors.Add(authors);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetAuthors", new { id = authors.ID }, authors);
+            return CreatedAtAction("GetAuthors", new { id = authors.Id }, authors);
         }
 
         // DELETE: api/Authors/5
@@ -102,7 +102,7 @@ namespace BTLAB_API.Controllers
 
         private bool AuthorsExists(int id)
         {
-            return _context.Authors.Any(e => e.ID == id);
+            return _context.Authors.Any(e => e.Id == id);
         }
     }
 }

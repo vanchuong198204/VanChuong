@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTLAB_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+093060f628f7c77eee0269ff35fbdc3f874b50c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTLAB_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTLAB_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
