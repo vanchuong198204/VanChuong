@@ -35,19 +35,16 @@ namespace BTLAB_API.Controllers
             return StatusCode(StatusCodes.Status200OK, authorDTO);
         }
         [HttpGet("Get-Id")]
-        public async Task<IActionResult> GetById()
+        public async Task<IActionResult> GetById(int id)
         {
-            var author = _dbcontext.Authors.Include(a => a.Book_Authors).ThenInclude(b => b.books).ToList();
-            if (author == null || !author.Any())
-            {
-                return StatusCode(StatusCodes.Status204NoContent, "No books in database.");
-            }
-            var authorDTO = author.Select(author => new AuthorDTO
+            var author = _dbcontext.Authors.Where(b => b.Id == id);
+
+            var authorDTO = author.Select(author => new AuthorDTO()
             {
                 Id = author.Id,
                 FullName = author.FullName,
-                Name_Book = author.Book_Authors.Select(b => b.books.Title).ToList(),
-            }).ToList();
+                Name_Book = author.Book_Authors.Select(a => a.books.Title).ToList(),   
+            }).FirstOrDefault();
             return StatusCode(StatusCodes.Status200OK, authorDTO);
         }
         [HttpPost]

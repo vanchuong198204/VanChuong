@@ -250,6 +250,4 @@ C:\Lập trình web\BTLAB_API\BTLAB_API\bin\Debug\net8.0\runtimes\win\lib\net7.0
 C:\Lập trình web\BTLAB_API\BTLAB_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Lập trình web\BTLAB_API\BTLAB_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Lập trình web\BTLAB_API\BTLAB_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-C:\Lập trình web\BTLAB_API\BTLAB_API\obj\Debug\net8.0\BTLAB_API.RazorAssemblyInfo.cache
-C:\Lập trình web\BTLAB_API\BTLAB_API\obj\Debug\net8.0\BTLAB_API.RazorAssemblyInfo.cs
 C:\Lập trình web\BTLAB_API\BTLAB_API\obj\Debug\net8.0\BTLAB_API.sourcelink.json

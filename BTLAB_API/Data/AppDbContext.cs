@@ -27,7 +27,7 @@ namespace BTLAB_API.Data
 
             modelBuilder.Entity<Books>()
                 .HasOne(b => b.publishers)
-                .WithMany(p => p.Book)
+                .WithMany(p => p.Books)
                 .HasForeignKey(b => b.PublishersId);
 
 

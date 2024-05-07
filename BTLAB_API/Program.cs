@@ -1,6 +1,5 @@
 using BTLAB_API;
 using BTLAB_API.Data;
-using BTLAB_API.Interfaces;
 using BTLAB_API.Repositories;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +13,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IBookRepository, SQLBookRepository>();
+
+builder.Services.AddScoped<IAuthorRepository, SQLAuthorRepository>();
+
+builder.Services.AddScoped<IPublisherRepository, SQLPublisherRepository>();
 
 
 builder.Services.AddDbContext<AppDbContext>(options =>

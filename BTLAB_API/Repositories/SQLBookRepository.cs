@@ -1,5 +1,4 @@
 ﻿using BTLAB_API.Data;
-using BTLAB_API.Interfaces;
 using BTLAB_API.Models.Domain;
 using BTLAB_API.Models.DTO;
 using Microsoft.AspNetCore.Mvc;
@@ -7,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BTLAB_API.Repositories
 {
+    
     public class SQLBookRepository : IBookRepository
     {
         private readonly AppDbContext _dbcontext;
@@ -107,6 +107,23 @@ namespace BTLAB_API.Repositories
             }
 
             return book;
+        }
+
+     
+
+        AddBookDTO IBookRepository.AddBook(AddBookDTO addBookRequestDTO)
+        {
+            throw new NotImplementedException();
+        }
+
+        AddBookDTO? IBookRepository.UpdateBookById(int id, AddBookDTO bookDTO)
+        {
+            throw new NotImplementedException();
+        }
+
+        Books? IBookRepository.DeleteBookById(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }
